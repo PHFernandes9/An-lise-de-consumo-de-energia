@@ -1,0 +1,1 @@
+SELECT * FROM `halogen-parser-426821-j8.Dataset.Osbis_2` 
